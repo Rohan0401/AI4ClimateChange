@@ -12,7 +12,7 @@ Air pollution is one of the top contributors to climate change, the ongoing foss
     
     The major reasons for this continuous rise of pollution are *automobile, industries, and burning of solid fuel*.  the following notebook is an attempt to validate this hypothesis. Please find the notebook below 
     
- - 
+ - **Notebook**
   [India Air Pollution Analysis](India_Air_Pollution_Analysis.ipynb)
  
 
