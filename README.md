@@ -1,6 +1,26 @@
 # AI4ClimateChange
 This repository is intended to create a practical solution for the climate change problem. The readme is in progress and will be updated soon. 
 
+## FAQ 
+
+There are many skepticism and concerns about Climate Change, I would like to answer some of the questions in this section. 
+
+1. Why should I believe in Climate Change? 
+Ans. Climate Change is not a topic of belief, it is an important concern of 21st Century, a large number of scientist have found enough evidence that this threat is real and we are at the brink of extinction because of it. Over the last 50 years, we have made great industrial progress and climate change is a side-effect of this. We have to act now before this problem gets out of hand.
+2.  What can we do about it?
+Ans. We can do a lot, understanding a problem is the first stage of any solution and this is a small step towards a big change. The power of analytics can help us to find and frame solution. There is a huge amount of data available on the internet but there is a huge shortage of tools and technique to make that data productive. This project will help to mitigate such a problem.  
+
+3. Why will I get in return? 
+Ans. Nothing :) but you will get an opportunity to enhance your skill and potentially help millions of people to live a better tomorrow. You will get a chance to meet with great people, learn about Data Science and Machine Learning for Free. I think this is worth it. 
+
+4. Ok, how can I help?
+Ans. If you're a coder than you know what to do, if not please refer to our contribution guide (it is not ready yet so please email me for more info)
+
+
+
+
+
+
 ## Project Objective 
 Currently, there are many ways climate change can be tackled the most interested are controlling pollution and optimization. There are various ways by which we can approach these issues, so we would like to further narrow it down to air pollution and energy efficiency.
 
@@ -24,3 +44,4 @@ Currently there are many ways climate change can be tackled the one I am most
 ## Resources
 - https://www.climatechange.ai/
 - [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433) 
+
