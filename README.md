@@ -8,6 +8,7 @@ There are many skepticism and concerns about Climate Change, I would like to ans
 1. Why should I believe in Climate Change? 
 
 Ans. Climate Change is not a topic of belief, it is an important concern of 21st Century, a large number of scientist have found enough evidence that this threat is real and we are at the brink of extinction because of it. Over the last 50 years, we have made great industrial progress and climate change is a side-effect of this. We have to act now before this problem gets out of hand.
+
 2.  What can we do about it?
 
 Ans. We can do a lot, understanding a problem is the first stage of any solution and this is a small step towards a big change. The power of analytics can help us to find and frame solution. There is a huge amount of data available on the internet but there is a huge shortage of tools and technique to make that data productive. This project will help to mitigate such a problem.  
